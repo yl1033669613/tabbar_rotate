@@ -1,2 +1,3 @@
-# tabbar_rotate
-一个通过jquery实现的tabbar
+# snake
+微信小游戏
+无框架
